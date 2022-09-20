@@ -7,6 +7,7 @@
             -SUSHMITHA S DHISLEY(TEAM LEADER)
 #PROJECT DONE FOR VARCONS TECHNOLOGIES PVT LTD (INTERNSHIP)
 
+
 ## **Jyoti** : Assistant for blind
 
 A *voice assistant* specifically aiming towards aiding the visually imapired.
